@@ -1,0 +1,10 @@
+INPUT: example_column.inm
+MODNAME: apmain
+RUNID: example_column
+NEW_RUNID: example_column
+OLD_RUNID: example_column
+PDF: example_column.appdf
+USERNAME: Carlos
+XMOD: C:\Program Files\AspenTech\Aspen Plus V12.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _3625tez.ads
